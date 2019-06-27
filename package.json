@@ -1,0 +1,22 @@
+{
+  "name": "streams-rtmp-playground",
+  "version": "1.0.0",
+  "description": "streams rtmp server playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solairerove/streams-rtmp-playground.git"
+  },
+  "author": "solairerove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solairerove/streams-rtmp-playground/issues"
+  },
+  "homepage": "https://github.com/solairerove/streams-rtmp-playground#readme",
+  "dependencies": {
+    "node-media-server": "^2.1.1"
+  }
+}
